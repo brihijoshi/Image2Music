@@ -24,9 +24,8 @@ operator arbitrarily during sonification, we classify this as probing. One may
 arbitrarily probe anywhere and anytime within an image. It requires some
 pre-assessment of the qualities or features of the image.
 
-Please refer to the report for more information
+Till now, we have explored some techniques which are combinations of scanning
+and probing, and successfully tried to decipher a 'mood' of an image via music.
 
-In conclusion, we were absolutely delighted to explore this field, and we wish to
-continue on this field further by exploring concepts like sign post sonification,
-sonification of books, of comic books or of the mime/english videos in the near future!
+Please refer to the report for more information.
 
